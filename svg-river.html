@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVG River</title>
+    <style>
+        svg{
+            position: relative;
+        }
+        path:nth-child(2){
+            position: absolute;
+            z-index: 2;
+        }
+        path:nth-child(3){
+            position: absolute;
+            z-index: 1;
+            transform: translate(-7px, -4px);
+        }
+    </style>
+</head>
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500" fill="none">
+
+        <defs>
+            <linearGradient id="grad1" x1="0%" x2="100%" y1="0%" y2="0%">
+                <stop offset="0%" stop-color="yellow" />
+                <stop offset="100%" stop-color="red" />
+            </linearGradient>
+        </defs>
+
+        <path d="M 0 0 L 0 100 C 20 100 0 70 30 70 S 40 60 40 40 S 50 30 65 15 S 70 0 70 0 Z"
+         stroke="trnsparent" fill="#ccc"/>
+
+        <path d="M 0 0 L 0 100 C 20 100 0 70 30 70 S 40 60 40 40 S 50 30 65 15 S 70 0 70 0 Z" 
+        stroke="trnsparent" fill="url(#grad1)"/>
+    
+    </svg>
+
+</body>
+</html>
