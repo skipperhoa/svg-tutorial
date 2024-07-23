@@ -16,7 +16,7 @@ Nếu bạn thấy thú vị, thì đăng ký kênh ủng hộ tôi (If you find
 - Website: [hoanguyenit.com](https://hoanguyenit.com)
 
 # Demo
-![hoanguyenit.com](https://github.com/skipperhoa/svg-tutorial/blob/river/river.jpg)
+![hoanguyenit.com](https://github.com/skipperhoa/svg-tutorial/blob/svg-river/river.jpg)
 
 # React
 
