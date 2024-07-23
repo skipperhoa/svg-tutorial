@@ -20,7 +20,7 @@ Nếu bạn thấy thú vị, thì đăng ký kênh ủng hộ tôi (If you find
 
 # React
 
-```
+```javascript
 import * as React from "react";
 const SVGComponent = (props) => (
   <svg
@@ -49,7 +49,7 @@ export default SVGComponent;
 
 # React Native 
 
-```
+```javascript
 import * as React from "react";
 import Svg, { Defs, LinearGradient, Stop, Path } from "react-native-svg";
 const SVGComponent = (props) => (
@@ -78,7 +78,7 @@ export default SVGComponent;
 ```
 
 # SVG
-```
+```html
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 124 124" fill="none">
    <defs>
             <linearGradient id="grad1" x1="0%" x2="100%" y1="0%" y2="0%">
