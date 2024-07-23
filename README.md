@@ -10,7 +10,7 @@ Please Like, Share, and Subscribe if you like the video :
 
 Nếu bạn thấy thú vị, thì đăng ký kênh ủng hộ tôi (If you find it interesting, then subscribe to my channel to support me)
 - YouTube Channel: [Creator's Channel](https://www.youtube.com/channel/UCBOZRctXJSg9YNLyddedASg?sub_confirmation=1)
-- TikTok: [@ha.nguyn.coder](https://www.tiktok.com/@ha.nguyn.coder)
+- TikTok: [@hoanguyencoder](https://www.tiktok.com/@hoanguyencoder)
 - Twitter: [@skipperhoa](https://x.com/skipperhoa)
 - Facebook Fanpage: [Fanpage](https://www.facebook.com/profile.php?id=100049475056780)
 - Website: [hoanguyenit.com](https://hoanguyenit.com)
