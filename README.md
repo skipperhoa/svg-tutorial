@@ -39,7 +39,7 @@ const SVGComponent = (props) => (
     </defs>
     <path
       d="M 0 0 L 0 100 C 20 100 0 70 30 70 S 40 60 40 40 S 50 30 65 15 S 70 0 70 0 Z"
-      stroke="trnsparent"
+      stroke="transparent"
       fill="url(#grad1)"
     />
   </svg>
@@ -69,7 +69,7 @@ const SVGComponent = (props) => (
     </Defs>
     <Path
       d="M 0 0 L 0 100 C 20 100 0 70 30 70 S 40 60 40 40 S 50 30 65 15 S 70 0 70 0 Z"
-      stroke="trnsparent"
+      stroke="transparent"
       fill="url(#grad1)"
     />
   </Svg>
@@ -88,6 +88,6 @@ export default SVGComponent;
         </defs>
 
  <path d="M 0 0 L 0 100 C 20 100 0 70 30 70 S 40 60 40 40 S 50 30 65 15 S 70 0 70 0 Z"
-         stroke="trnsparent" fill="url(#grad1)"/>
+         stroke="transparent" fill="url(#grad1)"/>
 </svg>
 ```
